@@ -1,0 +1,45 @@
+/* General Formating */
+
+body {
+    background-color:  #F0EAD6;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.footer h5 {
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+.headerImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+/* Page Formatting */
+
+.indexPageText {
+
+    padding-top: 40px;
+    margin-left: 40px;
+}
+
+
+/* Navbar */
+.navbar-expand-md .navbar-nav .dropdown-menu {
+    position: absolute !important;
+}
